@@ -65,14 +65,6 @@ cd large-excel-writer
 - **XSSFWorkbook**: Keeps all data in **memory** — best for **small to medium-sized files**
 
 ---
-
-## 📸 Example Response
-
-| Type   | Rows    | Columns | File Size (approx) |
-|--------|---------|---------|--------------------|
-| SXSSF  | 500,000 | 100     | ~150 MB            |
-| XSSF   | 50,000  | 100     | ~20 MB             |
-
 ---
 
 ## 🧰 Dependencies
@@ -90,13 +82,6 @@ cd large-excel-writer
     <version>2.1.0</version>
 </dependency>
 ```
-
----
-
-## 📜 License
-
-MIT License © 2025 [Suryansh Srivastava](https://github.com/suryanshhbtu)
-
 ---
 
 ## 🙋‍♂️ Author
